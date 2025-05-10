@@ -18,6 +18,9 @@ author_profile: true
      * Also presented within *Journal first Paper Track* of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Sacramento, California, United States.
  * [TR 2022] **Haoxin Tu**, He Jiang, Zhide Zhou, Yixuan Tang, Zhilei Ren, Lei Qiao, and Lingxiao Jiang, "**Detecting C++ Compiler Front-end Bugs via Grammar Mutation and Differential Testing**", in *IEEE Transactions on Reliability*, 2022. [[IEEE Early Access]](https://ieeexplore.ieee.org/document/9777893) [[Authors' Draft]](https://haoxintu.github.io/files/tr-2022-draft.pdf) [[Bug Reports]](https://github.com/haoxintu/CCOFT/blob/main/reported-bugs.md)
 
+### Pre-prints
+ * [Conference'25] **Haoxin Tu**, Lingxiao Jiang, and Marcel Böhme, "**Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search**", *Under Review*, 2025. [[PDF]](https://arxiv.org/pdf/2408.08772)
+ * [Conference'25] **Haoxin Tu**, Seongmin Lee, Yuxian Li, Peng Chen, Marcel Böhme, and  Lingxiao Jiang, "**Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation**." *Under Review*, 2025. [[PDF]](https://arxiv.org/pdf/2504.17542)
 
 
 ### Ph.D. Thesis
@@ -26,7 +29,7 @@ author_profile: true
    * **Research on Test Program Construction Approaches for Compiler Testing and Debugging**
      * **(in Chinese: 面向编译器测试与调试的程序构造方法研究)** [[Thesis]](https://haoxintu.github.io/files/dut_thesis.pdf) [[Slides]](https://haoxintu.github.io/files/dut_phd_thesis_defense_slides.pdf)
  * Dissertation submitted to [SMU](https://www.smu.edu.sg/):
-   * **Boosting Symbolic Execution for Software Reliability and Security (Proposed)** [To appear]
+   * **Boosting Symbolic Execution for Vulnerablity Detection** [To appear]
 
 
 {% if author.googlescholar %}
