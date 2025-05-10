@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there 👋. Haoxin is currently a Research Fellow at the National University of Singapore (NUS), working with Prof. [Abhik](https://abhikrc.com/) in the [Trustworthy and Secure Software (TSS)](https://nus-tss.github.io/) group. Pior to that, Haoxin was graduated from a Dual-degree Ph.D. program in *Computer Science*, supervised by Prof. [ Lingxiao Jiang ](http://www.mysmu.edu/faculty/lxjiang/) and Prof. [ Xuhua Ding ](http://www.mysmu.edu/faculty/xhding/), at the School of Computing and Information Systems in [ Singapore Management University (SMU)](https://www.smu.edu.sg/), and in *Software Engineering*, supervised by Prof. [ He Jiang ](http://faculty.dlut.edu.cn/jianghe/en/index.htm), at the School of Software in [ Dalian University of Technology (DUT)](https://www.dlut.edu.cn/). He earned his first Ph.D. degree from DUT in December 2023 and his second in May 2025. He was a summer intern in [Marcel Böhme](https://mboehme.github.io/)'s group at [MPI-SP](https://mpi-softsec.github.io/) from May to August 2024.
+Hi, there 👋. 
+
+Haoxin is currently a *Research Fellow* at the National University of Singapore (NUS), fortunately working with Prof. [Abhik](https://abhikrc.com/) in the [Trustworthy and Secure Software (TSS)](https://nus-tss.github.io/) group. 
+
+Pior to that, Haoxin was luckily graduated from a Dual-degree Ph.D. program in *Computer Science*, supervised by Prof. [ Lingxiao Jiang ](http://www.mysmu.edu/faculty/lxjiang/) and Prof. [ Xuhua Ding ](http://www.mysmu.edu/faculty/xhding/), at the School of Computing and Information Systems in [ Singapore Management University (SMU)](https://www.smu.edu.sg/), and in *Software Engineering*, supervised by Prof. [ He Jiang ](http://faculty.dlut.edu.cn/jianghe/en/index.htm), at the School of Software in [ Dalian University of Technology (DUT)](https://www.dlut.edu.cn/). He earned his first Ph.D. degree from DUT in December 2023 and his second in May 2025. He was a summer intern in [Marcel Böhme](https://mboehme.github.io/)'s group at [MPI-SP](https://mpi-softsec.github.io/) from May to August 2024.
 
 
 <p align="center" > <b> <i> <big> "To err is human, but to really foul things up you need a computer." </big> </i></b></p>
 <p align="right"> - Paul R. Ehrlich </p>
 
 
-Software systems written by either humans or AI tend to be unreliable and insecure. My research interests focus on developing practical techniques and tools that can help improve the reliability and security of software systems (mainly system software such as compilers and Linux kernels). He is quite interested in developing advanced automated approaches, based on program analysis techniques such as fuzzing and symbolic execution, to resolve labor-intensive engineering tasks, e.g., automatic bug finding/debugging and exploit generation. 
+Software systems written by either humans or AI tend to be unreliable and insecure. Haoxin's research interests focus on developing practical techniques and tools that can help improve the reliability and security of software systems (mainly system software such as compilers and Linux kernels). He is quite interested in developing advanced automated approaches, based on program analysis techniques such as fuzzing and symbolic execution, to resolve labor-intensive engineering tasks, e.g., automatic bug finding/debugging and exploit generation. 
 
 <!---
 👉 <span style="color:red">**I am seeking *Summer Intern* opportunities *in 2024*. Please kindly check my [CV](/files/cv.pdf) and feel free to drop me an email if you are offering any relevant positions (in either academia or industry). Let's work together to constantly push the boundaries a bit further!** </span>
@@ -47,7 +51,7 @@ Software systems written by either humans or AI tend to be unreliable and insecu
   * [Dec 2020] Our paper was rejected from ICSE 2021... Hmmm, keep smiling and move on!
   * [Mar 2020] Opened my academic homepage! 
 
-<p align="right"> [Last updated on August 2024] </p>
+<p align="right"> [Last updated on May 2025] </p>
 
 
 
