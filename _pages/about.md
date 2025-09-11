@@ -25,6 +25,7 @@ Software systems written by either humans or AI tend to be unreliable and insecu
 
 ## Recent News
 
+  * [Sep 2025] Our paper "*[**Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation**](https://arxiv.org/pdf/2504.17542)*" has been accepted (with shepherding) by IEEE S&P 2026!
   * [May 2025] Started a new position as a *Research Fellow* at NUS!
   * [May 2025] ***I have successfully defended my PhD thesis at SMU!*** Another milestone has been achieved, and I am now officially *Dr. Tu* 😃. You can also call me *Dr. Two* 🤣.
   * [Apr 2025] We released a new paper "[*Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation*](https://arxiv.org/pdf/2504.17542)", where we proposed an LLM-driven concolic execution to generate structured test inputs!
