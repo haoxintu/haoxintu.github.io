@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### Conference Papers
+* [IEEE S&P'26] **Haoxin Tu**, Seongmin Lee, Yuxian Li, Peng Chen, Marcel Böhme, and  Lingxiao Jiang, "**Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation**", to appear (with shepherding) at IEEE S&P 2026. [[Draft PDF]](https://arxiv.org/pdf/2504.17542) [[Code]](https://github.com/Cottontail-Proj/cottontail)(to be released soon).
 * [ICSE 2024] **Haoxin Tu**, Lingxiao Jiang, Debin Gao, and He Jiang, "**Beyond a Joke: Dead Code Elimination Can Delete Live Code**", in *Proceedings of 46th IEEE ACM International Conference on Software Engineering (ICSE-NIER 2024)*. [[PDF]](https://haoxintu.github.io/files/icse2024-nier-camera-ready.pdf) [[Code]](https://github.com/haoxintu/Xdead) [[Slides]](https://haoxintu.github.io/files/Xdead-ICSE-NIER-slides.pdf)
  * [CCS 2023] Pansilu Pitigalaarachchi, Xuhua Ding, Haiqing Qiu, **Haoxin Tu**, Jiaqi Hong, and Lingxiao Jiang, "**KRover: A Symbolic Execution Engine for Dynamic Kernel Analysis**", in *Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS 2023)*. [[PDF]](https://haoxintu.github.io/files/ccs2023_krover.pdf) [[Code]](https://github.com/KRoverSystems/KRover)
  * [ICSE 2023] **Haoxin Tu**, "**Boosting Symbolic Execution for Heap-based Vulnerability Detection and Exploit Generation**", in *the Doctoral Symposium Track of IEEE/ACM International Conference on Software Engineering (ICSE 2023)*. [[PDF]](https://haoxintu.github.io/files/icse23-ds-paper.pdf) [[Poster]](https://haoxintu.github.io/files/icse23-ds-poster.pdf)
@@ -19,9 +20,7 @@ author_profile: true
  * [TR 2022] **Haoxin Tu**, He Jiang, Zhide Zhou, Yixuan Tang, Zhilei Ren, Lei Qiao, and Lingxiao Jiang, "**Detecting C++ Compiler Front-end Bugs via Grammar Mutation and Differential Testing**", in *IEEE Transactions on Reliability*, 2022. [[IEEE Early Access]](https://ieeexplore.ieee.org/document/9777893) [[Authors' Draft]](https://haoxintu.github.io/files/tr-2022-draft.pdf) [[Bug Reports]](https://github.com/haoxintu/CCOFT/blob/main/reported-bugs.md)
 
 ### Pre-prints
- * [Conference'25] **Haoxin Tu**, Lingxiao Jiang, and Marcel Böhme, "**Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search**", *Under Review*, 2025. [[PDF]](https://arxiv.org/pdf/2408.08772)
- * [Conference'25] **Haoxin Tu**, Seongmin Lee, Yuxian Li, Peng Chen, Marcel Böhme, and  Lingxiao Jiang, "**Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation**." *Under Review*, 2025. [[PDF]](https://arxiv.org/pdf/2504.17542)
-
+ * [TOSEM'25] **Haoxin Tu**, Lingxiao Jiang, and Marcel Böhme, "**Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search**", *Under Major Revision*, 2025. [[PDF]](https://arxiv.org/pdf/2408.08772)
 
 ### Ph.D. Thesis
 
