@@ -21,8 +21,7 @@ author_profile: true
 
 ### Under Review
  * [TOSEM'25] **Haoxin Tu**, Lingxiao Jiang, and Marcel Böhme, "**Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search**", *Under Major Revision*, 2025. [[PDF]](https://arxiv.org/pdf/2408.08772)
- * [Conference'26] **Haoxin Tu**, Lingxiao Jiang, and Debin Gao, "**When Dead Code Elimination Goes Wrong: Directed Test Case Generation for Detecting Erroneous Live Code Deletion**
-*", *Under Review*, 2025.
+ * [Conference'26] **Haoxin Tu**, Lingxiao Jiang, and Debin Gao, "**When Dead Code Elimination Goes Wrong: Directed Test Case Generation for Detecting Erroneous Live Code Deletion**", *Under Review*, 2025.
 
 ### Ph.D. Thesis
 
