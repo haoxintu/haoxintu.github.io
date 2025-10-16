@@ -25,7 +25,7 @@ Software systems written by either humans or AI tend to be unreliable and insecu
 
 ## Recent News
 
-  * [Sep 2025] Our paper "*[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](https://arxiv.org/pdf/2504.17542)*" has been accepted (with shepherding) by IEEE S&P 2026! See you in San Francisco next May!
+  * [Sep 2025] Our paper "*[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](https://arxiv.org/pdf/2504.17542)*" has been accepted in the IEEE Symposium on Security and Privacy (S&P 2026)! See you in San Francisco next May!
   * [May 2025] Started a new position as a *Research Fellow* at NUS!
   * [May 2025] ***I have successfully defended my PhD thesis at SMU!*** Another milestone has been achieved, and I am now officially *Dr. Tu* 😃. You can also call me *Dr. Two* 🤣.
   * [Apr 2025] We released a new paper "[*Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation*](https://arxiv.org/pdf/2504.17542)", where we proposed an LLM-driven concolic execution to generate structured test inputs!
@@ -33,7 +33,7 @@ Software systems written by either humans or AI tend to be unreliable and insecu
   * [Aug 2024] Our TSE'24 work [SymLoc](https://haoxintu.github.io/files/SymLoc_TSE2024_Just_Accepted.pdf) is accepted by the Journal-first Paper Track of ASE 2024! See you in Sacramento!
   * [July 2024] I am selected as a *[Shadow PC member of ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-shadow-research-track-program-committee)*! Looking forward to contributing to the community!
   * [July 2024] I am awarded the ***Presidential Doctoral Fellowship*** at SMU! Many thanks to my supervisors for their continuous support and help!
-  * [May 2024] Arrived at beautiful Bochum in Germany and started the summer internship in [Dr. Marcel Böhme](https://mboehme.github.io/)'s group at [MPI-SP](https://mpi-softsec.github.io/) from now!
+  * [May 2024] Arrived at beautiful Bochum in Germany and started the summer internship with [Dr. Marcel Böhme](https://mboehme.github.io/)'s group at [MPI-SP](https://mpi-softsec.github.io/) from now!
   * [Apr 2024] Our paper titled "***Isolating Compiler Bugs by Generating Effective Witness Programs with Large Language Models***" has been accepted by IEEE Transactions on Software Engineering!
   * [Apr 2024] Our paper titled "***Concretely Mapped Symbolic Memory Locations for Memory Error Detection***" has been accepted by IEEE Transactions on Software Engineering!
   * [Feb 2024] ***I have passed my Ph.D. Dissertation Proposal Defense at SMU!*** Great appreciation for my amazing dissertation committee members!
