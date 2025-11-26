@@ -25,6 +25,7 @@ Software systems written by either humans or AI tend to be unreliable and insecu
 
 ## Recent News
 
+  * [Nov 2025] Presented our recent [Cottontail](https://haoxintu.github.io/files/sp2026-cottontail.pdf) work at [2nd Singapore Programming Languages Summit](https://sg-pl-summit.github.io/) at SMU!
   * [Sep 2025] Our paper "*[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](https://arxiv.org/pdf/2504.17542)*" has been accepted in the IEEE Symposium on Security and Privacy (S&P 2026)! See you in San Francisco next May!
   * [May 2025] Started a new position as a *Research Fellow* at NUS!
   * [May 2025] ***I have successfully defended my PhD thesis at SMU!*** Another milestone has been achieved, and I am now officially *Dr. Tu* 😃. You can also call me *Dr. Two* 🤣.
@@ -50,7 +51,7 @@ Software systems written by either humans or AI tend to be unreliable and insecu
   * [Dec 2020] Our paper was rejected from ICSE 2021... Hmmm, keep smiling and move on!
   * [Mar 2020] Opened my academic homepage! 
 
-<p align="right"> [Last updated on May 2025] </p>
+<p align="right"> [Last updated on Nov 2025] </p>
 
 
 
