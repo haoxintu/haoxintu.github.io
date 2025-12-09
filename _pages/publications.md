@@ -15,14 +15,15 @@ Security and Privacy (S&P 2026). [[PDF]](https://haoxintu.github.io/files/sp2026
 
 
 ### Journal Papers
+ * [TOSEM'25] **Haoxin Tu**, Lingxiao Jiang, and Marcel Böhme, "**Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search**", in *ACM Transactions on Software Engineering and Methodology*, 2025. [[PDF]](https://arxiv.org/pdf/2408.08772) [[Code]](https://github.com/haoxintu/Vital-SE)
  * [TSE 2024] **Haoxin Tu**, Zhide Zhou, He Jiang, Imam Nur Bani Yusuf, Yuxian Li, and Lingxiao Jiang, "**Isolating Compiler Bugs by Generating Effective Witness Programs with Large Language Models**", in *IEEE Transactions on Software Engineering*, 2024. [[PDF]](https://arxiv.org/pdf/2307.00593.pdf) [[Code]](https://github.com/haoxintu/LLM4CBI)
  * [TSE 2024] **Haoxin Tu**, Lingxiao Jiang, Jiaqi Hong, Xuhua Ding, and He Jiang, "**Concretely Mapped Symbolic Memory Locations for Memory Error Detection**", in *IEEE Transactions on Software Engineering*, 2024. [[PDF]](https://haoxintu.github.io/files/SymLoc_TSE2024_Just_Accepted.pdf) [[Code]](https://github.com/haoxintu/SymLoc)
      * Also presented within *Journal first Paper Track* of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Sacramento, California, United States.
  * [TR 2022] **Haoxin Tu**, He Jiang, Zhide Zhou, Yixuan Tang, Zhilei Ren, Lei Qiao, and Lingxiao Jiang, "**Detecting C++ Compiler Front-end Bugs via Grammar Mutation and Differential Testing**", in *IEEE Transactions on Reliability*, 2022. [[IEEE Early Access]](https://ieeexplore.ieee.org/document/9777893) [[Authors' Draft]](https://haoxintu.github.io/files/tr-2022-draft.pdf) [[Bug Reports]](https://github.com/haoxintu/CCOFT/blob/main/reported-bugs.md)
 
 ### Under Review
- * [TOSEM'25] **Haoxin Tu**, Lingxiao Jiang, and Marcel Böhme, "**Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search**", *Under Major Revision*, 2025. [[PDF]](https://arxiv.org/pdf/2408.08772)
  * [Conference'26] **Haoxin Tu**, Lingxiao Jiang, and Debin Gao, "**When Dead Code Elimination Goes Wrong: Directed Test Case Generation for Detecting Erroneous Live Code Deletion**", *Under Review*, 2025.
+ * [Conference'26] **Haoxin Tu**, Huan Zhao, Yahui Song, Mehtab Zafar, Ruijie Meng, and Abhik Roychoudhury, "**AutoRocq: Agentic Program Verification**", *Under Review*, 2025.
 
 ### Ph.D. Thesis
 
