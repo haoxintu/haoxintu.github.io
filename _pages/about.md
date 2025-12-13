@@ -35,6 +35,10 @@ Software systems written by either humans or AI tend to be unreliable and insecu
   * [Aug 2024] Our TSE'24 work [SymLoc](https://haoxintu.github.io/files/SymLoc_TSE2024_Just_Accepted.pdf) is accepted by the Journal-first Paper Track of ASE 2024! See you in Sacramento!
   * [July 2024] I am selected as a *[Shadow PC member of ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-shadow-research-track-program-committee)*! Looking forward to contributing to the community!
   * [July 2024] I am awarded the ***Presidential Doctoral Fellowship*** at SMU! Many thanks to my supervisors for their continuous support and help!
+    
+<details>
+<summary><strong>See more</strong></summary>
+  
   * [May 2024] Arrived at beautiful Bochum in Germany and started the summer internship with [Dr. Marcel Böhme](https://mboehme.github.io/)'s group at [MPI-SP](https://mpi-softsec.github.io/) from now!
   * [Apr 2024] Our paper titled "***Isolating Compiler Bugs by Generating Effective Witness Programs with Large Language Models***" has been accepted by IEEE Transactions on Software Engineering!
   * [Apr 2024] Our paper titled "***Concretely Mapped Symbolic Memory Locations for Memory Error Detection***" has been accepted by IEEE Transactions on Software Engineering!
@@ -50,8 +54,9 @@ Software systems written by either humans or AI tend to be unreliable and insecu
   * [Jul 2022] Our paper titled "***RemGen: Remanufacturing A Random Program Generator for Compiler Testing***" has been accepted by the 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE 2022)! (**Highlight**: We have reported 56, of which 37+ have been fixed by developers, compiler optimization bugs in GCC and LLVM.)
   * [Apr 2022] Our paper titled "***Detecting C++ Compiler Front-end Bugs via Grammar Mutation and Differential Testing***" has been accepted by IEEE Transactions on Reliability! (**Highlight**: We have reported 136, of which 67+ have already been confirmed or fixed by developers, bugs in GCC and LLVM compiler front-ends.)
   * [Dec 2020] Our paper was rejected from ICSE 2021... Hmmm, keep smiling and move on!
-  * [Mar 2020] Opened my academic homepage! 
-
+  * [Mar 2020] Opened my academic homepage!
+    
+</details>
 <p align="right"> [Last updated on Dec 2025] </p>
 
 
